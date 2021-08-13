@@ -1,0 +1,49 @@
+.jumbotron {
+  padding: 5rem 0 2rem 0;
+  background-color: #0b60e0;
+}
+
+* {
+  font-family: "Poppins", sans-serif;
+}
+
+h1.display-4 {
+  font-size: 26pt;
+  color: white;
+}
+
+.myfoto {
+  margin-bottom: 5px;
+}
+
+span.myname {
+  color: #23c4ed;
+  font-weight: 400;
+}
+
+p.lead {
+  font-weight: 300;
+  font-size: 1rem;
+  color: white;
+}
+
+section#about {
+  padding: 10rem 0;
+}
+
+.author {
+  text-decoration: none;
+  display: inline-block;
+}
+
+a.author:hover {
+  color: aqua;
+}
+
+h4.project-title {
+  font-size: 1.2rem;
+}
+
+p.project-description {
+  font-size: 0.9rem;
+}
